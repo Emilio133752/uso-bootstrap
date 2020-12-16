@@ -1,0 +1,44 @@
+.navbar {
+    background-color: rgba(64, 178, 253, 0.541) !important;
+}
+
+.navbar-brand {
+    margin-left: 80px !important;
+
+}
+.navbar-nav{
+    margin-left: 50px !important;
+}
+
+#quemsomos{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.container-fluid{
+    padding: 20px;
+}
+
+.col-lg-4{
+    margin-bottom: 15px;
+}
+
+#parceiros{
+   background-color: rgb(95, 95, 240) ; 
+}
+
+
+#sobre{
+    box-shadow: 5px 10px 200px rgb(12, 12, 12);
+    background-color: tomato;
+}
+
+#desenvolvido{
+    background-color: yellow;
+}
+
+.sobre{
+    padding-top: 30px;
+    background-color: black;
+    color: white;
+}
